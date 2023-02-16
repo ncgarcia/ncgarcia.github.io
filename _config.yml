@@ -82,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Nuno Cruz Garcia"
-  avatar           : "profile.png"
-  bio              : "Invited Assistant Professor at FCUL, University of Lisbon"
+  avatar           : "nuno_garcia_2_f copy.jpg"
+  bio              : "Assistant Professor at FCUL, University of Lisbon"
   location         : "Lisboa, Portugal"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=HhCz7nIAAAAJ&hl=en"
-  email            : "nuno(at)cruz-garcia(dot)net"
+  email            : "nrgarcia(at)ciencias(dot)ulisboa(dot)pt"
   #researchgate     : "https://www.researchgate.net/profile/Nuno_Garcia2"
   uri              :
   bitbucket        :

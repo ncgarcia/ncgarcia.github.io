@@ -4,7 +4,7 @@ title: "Contacts"
 author_profile: false
 ---
 <div style="float:right; display: block;">
-<img src="/images/ciências_ul_azul_h_s-ass.png" width=150>
+<img src="/images/ciencias_ul_azul_h_s-ass.png" width=150>
 <br><br><br>
 <img src="/images/normal_lasige.jpg" width=150>
 <br><br><br>

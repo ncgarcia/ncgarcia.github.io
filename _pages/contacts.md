@@ -3,9 +3,15 @@ permalink: /contacts/
 title: "Contacts"
 author_profile: false
 ---
- <!-- <div style="float: right"> <img src="/images/500x300.png"></div> -->
+<div style="float:right; display: block;">
+<img src="/images/ciências_ul_azul_h_s-ass.png" width=150>
+<br><br><br>
+<img src="/images/normal_lasige.jpg" width=150>
+<br><br><br>
+<img src="/images/lisboa.jpg" width=150>
+</div>
 
-Nuno Cruz Garcia:. <br>
+Nuno Cruz Garcia:.
 - nrgarcia(at)ciencias(dot)ulisboa(dot)pt
 - [Ciencias](https://ciencias.ulisboa.pt/pt/perfil/nrgarcia)
 - [GScholar](https://scholar.google.com/citations?user=HhCz7nIAAAAJ&hl=en)

@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 <!-- > News: -->
->* [LASIGE](https://www.lasige.pt/) is hiring a Postdoc. Link to the public notice [here](https://euraxess.ec.europa.eu/jobs/65310).
-Apply until 12/03/2023.
+>* <span style="color:blue">[LASIGE](https://www.lasige.pt/) is hiring a Postdoc. Apply until 12/03/2023.</span> Link to the public notice [here](https://euraxess.ec.europa.eu/jobs/65310).
 >* I'm looking for PhD students to work on computer vision and deep learning. <br> Feel free to drop me an email.
 
 + Assistant Professor at the Dept. of Informatics of the [Faculty of Sciences of the University of Lisbon](https://ciencias.ulisboa.pt/pt/di).

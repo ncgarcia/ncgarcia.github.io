@@ -4,11 +4,11 @@ title: "Contacts"
 author_profile: false
 ---
 <div style="float:right; display: block;">
-<img src="/images/ciencias_ul_azul_h_s-ass.png" width=150>
-<br><br><br>
-<img src="/images/normal_lasige.jpg" width=150>
-<br><br><br>
-<img src="/images/lisboa.jpg" width=150>
+<img src="/images/ciencias_ul_azul_h_s-ass.png" width=220>
+<br><br>
+<img src="/images/normal_lasige.jpg" width=220>
+<br><br>
+<img src="/images/lisboa.jpg" width=220>
 </div>
 
 Nuno Cruz Garcia:.

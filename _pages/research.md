@@ -12,10 +12,11 @@ My research focuses on Computer Vision and Deep Learning applied to various doma
 Feel free to contact me if you're interested on any of these topics.
 
 <br>
-# Projects
+# Projects   
 ##  Deep Multimodal Learning for Breast Cancer Detection
 We are developing self-supervised methods for imaging tasks related breast cancer, using 2D and 3D data, and several modalities such as synthetic data, tomosynthesis, mammography, and ultrasound.
 
+**Site** [https://sites.google.com/view/dl-cadet/home](https://sites.google.com/view/dl-cadet/home)   
 **Funding Entity** FCT (EXPL/CCICOM/ 0656/2021)  
 **Period** 13/01/2022 - 31/12/2023  
 **Research Labs** LASIGE and IBEB  

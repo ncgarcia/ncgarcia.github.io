@@ -13,6 +13,13 @@ Feel free to contact me if you're interested on any of these topics.
 
 <br>
 # Projects   
+##  Deep Learning-based Digital Twin of Manufacturing Systems 
+Open PhD Position. We’re looking for a PhD student in Deep Learning and Computer Vision for Digital Twin Generation of Manufacturing Systems. This scholarship is with the U. Lisbon and U. Grenoble Alpes. Get in touch if you’re interested!
+
+**Funding Entity** [UNITE!](https://www.unite-university.eu/)  
+**Research Labs** LASIGE, FCUL and INP, University Grenoble Alpes  
+**PI and Co-PI** Nuno Garcia and Pierre David
+
 ##  Deep Multimodal Learning for Breast Cancer Detection
 We are developing self-supervised methods for imaging tasks related breast cancer, using 2D and 3D data, and several modalities such as synthetic data, tomosynthesis, mammography, and ultrasound.
 
@@ -72,10 +79,14 @@ Developing deep learning methods for a multimodal biometrics system to be implem
 # Students
 ## Current:
 **PhD**  
+1. José Domingues, "Vision-Language Deep Learning for Explainable Medical Imaging Diagnosis"  
+FCUL, Supervisor. Co-supervisor: Nuno Matela.
 1. Duarte Saraiva, "Development of an artificial intelligence-based assisted navigation and diagnosis solution for pulmonary point-of-care ultrasound"  
 FCUL, Co-supervisor. Supervisor: Hugo Ferreira.
 1. João Mendes, "Breast Cancer Risk Prediction: Combining multiple imaging modalities in Convolutional Neural Networks"  
 FCUL, Co-supervisor. Supervisor: Nuno Matela.
+1. Jéssica Catarino, "Improving Breast Cancer Diagnosis with Self-Supervised Learning Techniques in Medical Imaging"  
+FCUL, Co-supervisor. Supervisor: Sara Silva.
 <!-- J <br>
 M <br>
 J <br> -->
@@ -99,17 +110,17 @@ IST, Co-supervising with Pedro Tomás and Helena Aidos.
 IST, Co-supervising with Pedro Tomás and Helena Aidos.  
 0. João Santos, "Deep learning for automatic longitudinal prediction of Drusen expansion"  
 FCUL, co-supervising with Nuno Matela.
-0. Pedro França, "Deep Learning with Synthetic Data for Medical Imaging"  
-FCUL, Co-supervising with Helena Aidos.
-1. José Domingues, "Adversarial Representation Learning for Medical Imaging"  
-FCUL, Co-supervising with Helena Aidos. (waiting defense)
-1. Lucas Silva, "Deep learning for predicting disease progression of clinical endpoints in ALS"   
-FCUL, Co-supervising with Sara Madeira. (waiting defense)
+<!-- 0. Pedro França, "Deep Learning with Synthetic Data for Medical Imaging"  
+FCUL, Co-supervising with Helena Aidos. -->
 {: reversed="reversed"}
 
 <br>
 ## Past:
 **MSc**    
+1. José Domingues, "Adversarial Representation Learning for Medical Imaging"  
+FCUL, Co-supervising with Helena Aidos. 
+1. Lucas Silva, "Deep learning for predicting disease progression of clinical endpoints in ALS"   
+FCUL, Co-supervising with Sara Madeira. 
 1. João Guerreiro, "Super-Resolution of Biomedical Images with Generative Adversarial Networks and posterior Tumor Segmentation"  
 IST, Co-supervising with Pedro Tomás and Helena Aidos.  
 1. Miguel Neves, "Tackling class imbalance in medical imaging via conditional generation"  

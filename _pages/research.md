@@ -11,10 +11,8 @@ For an updated list of publications, please check my Google Scholar [profile](ht
 
 I work on Computer Vision and Multimodal Deep Learning, with applications in domains ranging from biomedical to aerial imaging. Feel free to get in touch if you're interested in any of these topics.
 
-# Projects
-
 <details open>
-<summary style="font-size: 0.9em;">(expand/collapse)</summary>
+  <summary><span class="section-title">Projects</span></summary>
 
 <h2>Multimodal Failure Prediction for Assistive Human-Robot Interaction</h2>
 <p>Development of a deep learning-based module to predict failures in assistive human-robot interaction using multimodal data. Leveraging vision, wearable, and proprioceptive signals, the system anticipates anomalies during task execution, contributing to robust and user-aware augmentation in Task 9.1 of HARIA project.</p>
@@ -59,14 +57,17 @@ I work on Computer Vision and Multimodal Deep Learning, with applications in dom
 
 <br/>
 
-# Supervisions
+<details open>
+  <summary><span class="section-title">Supervisions</span></summary>
 
-## Current
+<h2 id="current">Current</h2>
+<!-- ## Current -->
 
-**PhD Students**
+<!-- <p><strong>PhD Students</strong></p> -->
+<!-- **PhD Students** -->
 
 <details open>
-<summary style="font-size: 0.9em;">(expand/collapse)</summary>
+<summary><span class="section2-title">PhD Students</span></summary>
 
 <ol reversed>
 <li value="9"> Iordanis Antypas, <strong><em>AI-powered Failure Management Framework for Human-Robot Sensorimotor Augmentation</em></strong><br />FCUL. Co-advisors: João Bimbo.</li>
@@ -84,10 +85,11 @@ I work on Computer Vision and Multimodal Deep Learning, with applications in dom
 
 <br>
 
-**MSc Students**
+<!-- <p><strong>MSc Students</strong></p> -->
+<!-- **MSc Students** -->
 
 <details open>
-<summary style="font-size: 0.9em;">(expand/collapse)</summary>
+<summary><span class="section2-title">MSc Students</span></summary>
 
 <ol reversed>
 <li value="10"> <strong><em>Deep Learning for Acoustic Artefact Detection and Compensation in Echocardiography</em></strong>, Hugo Vieira. KU Leuven. Co-advisors: Somayeh Akbarisaghezchi.</li>
@@ -105,12 +107,14 @@ Generosa Plant Coach</em></strong>, José Ricardo Ribeiro. FCUL; with Generosa.<
 
 </details>
 
-## Past
+<!-- ## Past -->
+<h2 id="past">Past</h2>
 
-**MSc Students**
+<!-- <p><strong>MSc Students</strong></p> -->
+<!-- **MSc Students** -->
 
 <details open>
-<summary style="font-size: 0.9em;">(expand/collapse)</summary>
+<summary><span class="section2-title">MSc Students</span></summary>
 
 <ol reversed>
 <li value="21"> <strong><em>Deep Learning with scarce resources for histopathology image analysis</em></strong>, Rodrigo da Silva e Santos. FCUL. 2025. <a href="https://repositorio.ulisboa.pt/handle/10400.5/97909" target="_blank">document</a>.</li>
@@ -136,6 +140,7 @@ Generosa Plant Coach</em></strong>, José Ricardo Ribeiro. FCUL; with Generosa.<
 <li value="1"> <strong><em>Generative deep clustering with the hierarchical and relativistic wasserstein autoencoder GAN</em></strong>, Gustavo Augusto Toscano Morais. Instituto Superior Técnico. 2021. <a href="https://catalogo-ist.biblioteca.ulisboa.pt/cgi-bin/koha/opac-detail.pl?biblionumber=1671772" target="_blank">document</a>. Co-advisors: Pedro Tomás, Helena Aidos.</li>
 </ol>
 
+</details>
 </details>
 
 <br>

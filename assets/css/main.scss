@@ -41,3 +41,19 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+.section-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  display: inline;
+}
+
+summary::marker {
+  color: blue;
+}
+
+.section2-title {
+  font-size: 1em;
+  font-weight: bold;
+  display: inline;
+}

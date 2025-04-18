@@ -150,11 +150,15 @@ analytics:
   google:
     tracking_id: G-DBNBRDG4MB
 
+# Make sure this line is here (enables the injection)
+# head-custom: /_includes/head-custom.html
+
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
+  # - _includes/head-custom.html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -223,6 +227,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # - scope:
+  #     path: ""
+  #   values:
+  #     head-custom: "head-custom"
   # _posts
   - scope:
       path: ""

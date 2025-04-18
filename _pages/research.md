@@ -78,17 +78,17 @@ I work on Computer Vision and Multimodal Deep Learning, with applications in dom
 <summary style="font-size: 0.9em;">(expand/collapse)</summary>
 
 <ol reversed>
-<li value="10"> <strong><em>Deep Learning for Acoustic Artefact Detection and Compensation in Echocardiography</em></strong>, Hugo Vieira. KU Leuven. <a href="#">document</a>. Co-advisors: Somayeh Akbarisaghezchi.</li>
-<li value="9"> <strong><em>Physics-Guided Deep Learning for Sparse Data-Driven Brain Shift Registration</em></strong>, Tiago Assis. University of Cambridge; Inria Paris-Saclay . <a href="#">document</a>. Co-advisors: Inês Prata Machado; Reuben Dorent.</li>
-<li value="8"> <strong><em>Multimodal perception for fault tolerant human-robot interaction</em></strong>, Guilherme Ribeiro. FCUL. <a href="#">document</a>. Co-advisors: João Bimbo.</li>
-<li value="7"> <strong><em>Deep Learning for Plant Disease Detection</em></strong>, Eduardo Carneiro. FCUL; with Generosa. <a href="#">document</a>.</li>
+<li value="10"> <strong><em>Deep Learning for Acoustic Artefact Detection and Compensation in Echocardiography</em></strong>, Hugo Vieira. KU Leuven. Co-advisors: Somayeh Akbarisaghezchi.</li>
+<li value="9"> <strong><em>Physics-Guided Deep Learning for Sparse Data-Driven Brain Shift Registration</em></strong>, Tiago Assis. University of Cambridge; Inria Paris-Saclay . Co-advisors: Inês Prata Machado; Reuben Dorent.</li>
+<li value="8"> <strong><em>Multimodal perception for fault tolerant human-robot interaction</em></strong>, Guilherme Ribeiro. FCUL. Co-advisors: João Bimbo.</li>
+<li value="7"> <strong><em>Deep Learning for Plant Disease Detection</em></strong>, Eduardo Carneiro. FCUL; with Generosa.</li>
 <li value="6"> <strong><em>Automation and User Experience Enhancement -
-Generosa Plant Coach</em></strong>, José Ricardo Ribeiro. FCUL; with Generosa. <a href="#">document</a>.</li>
-<li value="5"> <strong><em>Leveraging Large Language Models for Document Classification</em></strong>, Romulo Nogueira. FCUL; with Deloitte. <a href="#">document</a>. Co-advisors: Hugo Silva.</li>
-<li value="4"> <strong><em>Visão Computacional para Soluções de Segurança Adicional em Máquinas de Autoatendimento</em></strong>, Vasco Maria. FCUL; with Innovation Makers. <a href="#">document</a>. Co-advisors: Dino Coutinho.</li>
-<li value="3"> <strong><em>Sequential recommender systems for chemical data</em></strong>, Cláudia Afonso. FCUL. <a href="#">document</a>. Co-advisors: Márcia Barros.</li>
-<li value="2"> <strong><em>Benchmarking Contrastive Self-Supervised Learning for Multimodal Medical Imaging</em></strong>, Martim Dourado da Silva. FCUL. <a href="#">document</a>.</li>
-<li value="1"> <strong><em>Unsupervised Learning and Visualization of Astronomical Phenomena Using Self-Organizing Maps</em></strong>, Martim Costa. Instituto de Astrofísica e Ciências do Espaço. <a href="#">document</a>. Co-advisors: Israel Matute.</li>
+Generosa Plant Coach</em></strong>, José Ricardo Ribeiro. FCUL; with Generosa.</li>
+<li value="5"> <strong><em>Leveraging Large Language Models for Document Classification</em></strong>, Romulo Nogueira. FCUL; with Deloitte. Co-advisors: Hugo Silva.</li>
+<li value="4"> <strong><em>Visão Computacional para Soluções de Segurança Adicional em Máquinas de Autoatendimento</em></strong>, Vasco Maria. FCUL; with Innovation Makers. Co-advisors: Dino Coutinho.</li>
+<li value="3"> <strong><em>Sequential recommender systems for chemical data</em></strong>, Cláudia Afonso. FCUL. Co-advisors: Márcia Barros.</li>
+<li value="2"> <strong><em>Benchmarking Contrastive Self-Supervised Learning for Multimodal Medical Imaging</em></strong>, Martim Dourado da Silva. FCUL.</li>
+<li value="1"> <strong><em>Unsupervised Learning and Visualization of Astronomical Phenomena Using Self-Organizing Maps</em></strong>, Martim Costa. Instituto de Astrofísica e Ciências do Espaço. Co-advisors: Israel Matute.</li>
 </ol>
 
 </details>

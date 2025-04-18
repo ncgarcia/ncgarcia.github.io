@@ -13,7 +13,7 @@ I work on Computer Vision and Multimodal Deep Learning, with applications in dom
 
 <details open>
   <summary><span class="section-title">Projects</span></summary>
-
+  
 <h2>Multimodal Failure Prediction for Assistive Human-Robot Interaction</h2>
 <p>Development of a deep learning-based module to predict failures in assistive human-robot interaction using multimodal data. Leveraging vision, wearable, and proprioceptive signals, the system anticipates anomalies during task execution, contributing to robust and user-aware augmentation in Task 9.1 of HARIA project.</p>
 <p><strong>Funding Entity</strong> Horizon Europe. <strong>Site</strong>: <a href="http://haria-project.eu/" target="_blank">http://haria-project.eu/</a><br /><strong>Duration</strong> 2024 - present<br /><strong>Team</strong> João Bimbo (PI), NCG</p>

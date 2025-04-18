@@ -15,12 +15,12 @@ author_profile: false
 Nuno Cruz Garcia:.
 
 - ncgarcia(at)ciencias(dot)ulisboa(dot)pt
-- [Ciencias](https://ciencias.ulisboa.pt/pt/perfil/nrgarcia)
-- [GScholar](https://scholar.google.com/citations?user=HhCz7nIAAAAJ&hl=en)
-- [ORCID](https://orcid.org/0000-0002-6371-3310)
-- [CienciaVitae](https://www.cienciavitae.pt//pt/FB1C-A524-7606)
-- [Linkedin](https://www.linkedin.com/in/nrcgarcia/)
-- [Github](https://github.com/ncgarcia/)
-- [ResearcherID](https://www.webofscience.com/wos/author/record/U-8422-2018)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56347929500)
-- [Twitter](https://twitter.com/nunocgarcia/)
+- [Ciencias](https://ciencias.ulisboa.pt/pt/perfil/nrgarcia){:target="\_blank"}
+- [GScholar](https://scholar.google.com/citations?user=HhCz7nIAAAAJ&hl=en){:target="\_blank"}
+- [ORCID](https://orcid.org/0000-0002-6371-3310){:target="\_blank"}
+- [CienciaVitae](https://www.cienciavitae.pt//pt/FB1C-A524-7606){:target="\_blank"}
+- [Linkedin](https://www.linkedin.com/in/nrcgarcia/){:target="\_blank"}
+- [Github](https://github.com/ncgarcia/){:target="\_blank"}
+- [ResearcherID](https://www.webofscience.com/wos/author/record/U-8422-2018){:target="\_blank"}
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56347929500){:target="\_blank"}
+- [Twitter](https://twitter.com/nunocgarcia/){:target="\_blank"}

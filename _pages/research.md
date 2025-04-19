@@ -144,6 +144,8 @@ Generosa Plant Coach</em></strong>, José Ricardo Ribeiro. FCUL; with Generosa.<
 </details>
 </details>
 
+<br>
+
 <details id="publications" open>
   <summary><span class="section-title">Selected Publications</span></summary>
 <ul>

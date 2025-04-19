@@ -15,7 +15,7 @@ author_profile: false
 Nuno Cruz Garcia:.
 
 - ncgarcia(at)ciencias(dot)ulisboa(dot)pt
-- [Ciencias](https://ciencias.ulisboa.pt/pt/perfil/nrgarcia){:target="\_blank"}
+- [CIENCIAS](https://ciencias.ulisboa.pt/pt/perfil/nrgarcia){:target="\_blank"}
 - [GScholar](https://scholar.google.com/citations?user=HhCz7nIAAAAJ&hl=en){:target="\_blank"}
 - [ORCID](https://orcid.org/0000-0002-6371-3310){:target="\_blank"}
 - [CienciaVitae](https://www.cienciavitae.pt//pt/FB1C-A524-7606){:target="\_blank"}

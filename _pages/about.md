@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome!"
-excerpt: "Nuno Cruz Garcia"
+excerpt: "Assistant Professor at the University of Lisbon working on computer vision and deep learning."
 author_profile: true
 redirect_from:
   - /about/
@@ -12,6 +12,7 @@ redirect_from:
   <p ><span style="color:blue">R&amp;D Collaborations</span>
   We’re looking for students interested in developing research and solutions in:</p>
   <ul>
+    <li>Human-robot interaction </li>
     <li>Optical character recognition</li>
     <li>Automatic annotation tools</li>
     <li>Biomedical imaging</li>

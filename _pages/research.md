@@ -6,14 +6,15 @@ author_profile: false
 
 - List of [projects](#projects) I’m currently involved in or have worked on in the past.
 - List of [current](#current) and [past](#past) PhD and MSc students I’ve worked with.
+- List of [selected publications](#publications).
 
 For an updated list of publications, please check my Google Scholar [profile](https://scholar.google.com/citations?hl=en&user=HhCz7nIAAAAJ&view_op=list_works&sortby=pubdate){:target="\_blank"}.
 
 I work on Computer Vision and Multimodal Deep Learning, with applications in domains ranging from biomedical to aerial imaging. Feel free to get in touch if you're interested in any of these topics.
 
-<details open>
+<details id="projects" open>
   <summary><span class="section-title">Projects</span></summary>
-  
+
 <h2>Multimodal Failure Prediction for Assistive Human-Robot Interaction</h2>
 <p>Development of a deep learning-based module to predict failures in assistive human-robot interaction using multimodal data. Leveraging vision, wearable, and proprioceptive signals, the system anticipates anomalies during task execution, contributing to robust and user-aware augmentation in Task 9.1 of HARIA project.</p>
 <p><strong>Funding Entity</strong> Horizon Europe. <strong>Site</strong>: <a href="http://haria-project.eu/" target="_blank">http://haria-project.eu/</a><br /><strong>Duration</strong> 2024 - present<br /><strong>Team</strong> João Bimbo (PI), NCG</p>
@@ -141,6 +142,34 @@ Generosa Plant Coach</em></strong>, José Ricardo Ribeiro. FCUL; with Generosa.<
 </ol>
 
 </details>
+</details>
+
+<details id="publications" open>
+  <summary><span class="section-title">Selected Publications</span></summary>
+<ul>
+  <li>
+    Garcia, N. C., Morerio, P., & Murino, V. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=HhCz7nIAAAAJ&authuser=1&citation_for_view=HhCz7nIAAAAJ:YsMSGLbcyi4C" target="_blank">Learning with Privileged Information via Adversarial Discriminative Modality Distillation</a>. IEEE TPAMI, 2019.
+  </li>
+  <li>
+    Garcia, N. C., Morerio, P., & Murino, V. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=HhCz7nIAAAAJ&authuser=1&citation_for_view=HhCz7nIAAAAJ:W7OEmFMy1HYC" target="_blank">Modality Distillation with Multiple Stream Networks for Action Recognition</a>. ECCV, 2018.
+  </li>
+  <li>
+    Garcia, N. C., Bargal, S. A., Ablavsky, V., Morerio, P., Murino, V., & Sclaroff, S. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=HhCz7nIAAAAJ&authuser=1&citation_for_view=HhCz7nIAAAAJ:ufrVoPGSRksC" target="_blank">Distillation Multiple Choice Learning for Multimodal Action Recognition</a>. WACV, 2021.
+  </li>
+  <li>
+    Guerreiro, J., Tomás, P., Garcia, N., & Aidos, H. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=HhCz7nIAAAAJ&authuser=1&citation_for_view=HhCz7nIAAAAJ:0EnyYjriUFMC" target="_blank">Super-Resolution of Magnetic Resonance Images using GANs</a>. Computerized Medical Imaging and Graphics, 2023.
+  </li>
+  <li>
+    Mendes, J., Garcia, Nuno C., & Matela, N. <a href="" target="_blank">Seeing beyond today: AI predicts Breast Cancer two years ahead</a>. IEEE EMBC, 2025.
+  </li>
+  <li>
+     Oliveira-Saraiva, D., Leote, J., Gonzalez, F. A., Garcia, N. C., Ferreira, H. A. <a href="" target="_blank">Fourier Transforms the way we see B-lines in Lung Ultrasound</a>. IEEE EMBC, 2025.
+  </li>
+   <li>
+      Saragoça, B., Santos, F, Garcia, N. C., Oliveira, E. <a href="" target="_blank">SONO-GRAVITY: Sonographic Needle Guidance for Intracranial Pressure Evaluation in Microgravity </a>. SpaceCHI, 2025.
+  </li>
+  
+</ul>
 </details>
 
 <br>

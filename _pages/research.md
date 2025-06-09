@@ -4,6 +4,7 @@ title: "Research"
 author_profile: false
 ---
 
+  <p style="margin-top: 2em;">➤➤➤ See the list of MSc topics <a href="files/2425 MSc topics - NGarcia summary.pdf" style="font-weight: bold; color: white; background-color: green; padding: 2px 6px; border-radius: 4px;">here</a>. Get in touch if you’re interested.</p>
 - List of [projects](#projects) I’m currently involved in or have worked on in the past.
 - List of [current](#current) and [past](#past) PhD and MSc students I’ve worked with.
 - List of [selected publications](#publications).

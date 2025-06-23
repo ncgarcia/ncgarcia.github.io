@@ -17,7 +17,7 @@ redirect_from:
     <li>Automatic annotation tools</li>
     <li>Biomedical imaging</li>
   </ul>
-  <p style="margin-top: 2em;">➤➤➤ See the list of MSc topics <a href="files/2425 MSc topics - NGarcia summary.pdf" style="font-weight: bold; color: white; background-color: green; padding: 2px 6px; border-radius: 4px;">here</a>.</p>
+  <p style="margin-top: 2em;">➤➤➤ See the list of MSc topics <a href="/files/2425 MSc topics - NGarcia summary.pdf" style="font-weight: bold; color: white; background-color: green; padding: 2px 6px; border-radius: 4px;">here</a>.</p>
   <p>Get in touch if you’re interested.</p>
 </blockquote>
 

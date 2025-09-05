@@ -17,14 +17,17 @@ redirect_from:
     <li>Automatic annotation tools</li>
     <li>Biomedical imaging</li>
   </ul>
-  <p style="margin-top: 2em;">➤➤➤ See the list of MSc topics <a href="/files/2425 MSc topics - NGarcia summary.pdf" style="font-weight: bold; color: white; background-color: green; padding: 2px 6px; border-radius: 4px;">here</a>.</p>
-  <p>Get in touch if you’re interested.</p>
+  See the list of MSc topics <a href="/files/2425 MSc topics - NGarcia summary.pdf">here</a>. Get in touch if you’re interested.
+
+  <!-- <p style="margin-top: 2em;">➤➤➤ See the list of MSc topics <a href="/files/2425 MSc topics - NGarcia summary.pdf" style="font-weight: bold; color: white; background-color: green; padding: 2px 6px; border-radius: 4px;">here</a>.</p>
+  <p>Get in touch if you’re interested.</p> -->
 </blockquote>
 
 <blockquote>
   <details open class="compact-block">
     <summary><strong>News</strong></summary>
     <ul>
+      <li>Sept 2025: Paper accepted to <a href="https://sites.google.com/view/miccai-2025-colas/"> MICCAI COLAS</a> — <em>Deep Biomechanically-Guided Interpolation for Keypoint-Based Brain Shift Registration</em>.</li>
       <li>Apr 2025: Paper accepted to <a href="https://spacechi.media.mit.edu/">SpaceCHI 2025</a> — <em>SONO-GRAVITY: Sonographic Needle Guidance for Intracranial Pressure Evaluation in Microgravity</em>.</li>
       <li>Apr 2025: Two papers accepted to International Conference of the IEEE Engineering in Medicine and Biology Society <a href="https://embc.embs.org/2025/">EMBC 2025</a>.</li>
     </ul>
